@@ -1,0 +1,6 @@
+name = "shanghai-diversity-game"
+type = "javascript"
+compatibility_date = "2025-08-03"
+
+[site]
+bucket = "./dist"
