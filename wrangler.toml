@@ -1,8 +1,6 @@
 name = "shanghai-diversity-game"
 compatibility_date = "2025-08-03"
+main = "_worker.js"
 
 [site]
 bucket = "./dist"
-entry-point = "."
-
-main = "./_worker.js"
